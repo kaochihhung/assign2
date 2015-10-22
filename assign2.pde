@@ -1,7 +1,4 @@
-/*asssign2
-  Joe Kao
-  2015.10.22
-*/
+//You should implement your assign2 here.
 final int GAME_START = 0;
 final int GAME_RUN = 1;
 final int GAME_OVER = 2;
